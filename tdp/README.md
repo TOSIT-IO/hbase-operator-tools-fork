@@ -8,7 +8,7 @@ The version 2.1.10-TDP-0.1.0-SNAPSHOT of HBase is based on the tag `rel/1.1.0` o
 mvn clean install -Dhadoop.profile=3.0 -DskipTests
 ```
 
-The command generates a `.jar` file of the release at `./hbase-hbck2/target/hbase-hbck2-1.1.0-TDP-0.1.0-SNAPSHOT.jar`. 
+The command generates a `.jar` file of the release at `./hbase-hbck2/target/hbase-hbck2-1.1.0-0.0.jar`. 
 
 ## Testing parameters
 
