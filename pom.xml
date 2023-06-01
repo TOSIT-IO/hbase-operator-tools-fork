@@ -128,7 +128,7 @@
     <compileSource>1.8</compileSource>
     <java.min.version>${compileSource}</java.min.version>
     <maven.min.version>3.3.3</maven.min.version>
-    <hbase.version>2.1.10-TDP-0.1.0-SNAPSHOT</hbase.version>
+    <hbase.version>2.1.10-1.0</hbase.version>
     <surefire.provider>surefire-junit47</surefire.provider>
     <test.output.tofile>true</test.output.tofile>
     <checkstyle.version>8.18</checkstyle.version>
